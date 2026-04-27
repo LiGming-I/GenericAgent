@@ -1,0 +1,39 @@
+name: 李明
+title: 全栈开发工程师
+email: liming@example.com
+phone: +86 138-0000-0000
+linkedin: https://linkedin.com/in/liming
+github: https://github.com/LiGming-I
+
+summary: |
+  5 年 Python / Web 开发经验，熟悉 Streamlit、FastAPI、React。
+  喜欢把复杂逻辑做成一键可用的在线工具，热衷自动化。
+
+skills:
+  - Python
+  - Streamlit
+  - FastAPI
+  - React
+  - PostgreSQL
+  - GitHub Actions
+
+experiences:
+  - company: 某某科技有限公司
+    role: 后端开发工程师
+    duration: 2021.07 – 至今
+    location: 深圳
+    highlights:
+      - 设计并落地 10+ 内部数据可视化工具，减少 30% 人工报表时间
+      - 搭建 CI/CD，部署周期从周缩短到小时
+
+  - company: 实习公司
+    role: Python 开发实习生
+    duration: 2020.03 – 2021.06
+    location: 远程
+    highlights:
+      - 开发爬虫监控系统，异常响应时间 < 2 分钟
+
+education:
+  - school: 华南理工大学
+    degree: 学士 计算机科学与技术
+    duration: 2016 – 2020
