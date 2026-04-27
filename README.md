@@ -1,2 +1,2 @@
 # GenericAgent
-使用
+培养GenericAgent成为一个应用开发领域的专家
